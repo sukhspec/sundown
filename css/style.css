@@ -947,9 +947,7 @@ hr{
 
 @media (max-width:980px) {
     
-    .container{
-        /* background-color: blue; */
-    }
+
 
     .hero-section{
         flex-direction: column;
